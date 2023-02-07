@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['9660540637980'] //ur owner number
-global.ownername = "ABDUL RAHMAN🐼🍷 ٫" //ur owner name
-global.ytname = "YT: ABDUL RAHMAN" //ur yt chanel name
-global.socialm = "GitHub: ABDUL RAHMAN" //ur github or insta name
-global.location = "Egypt, Cairo, Aizawl" //ur location
+global.vcardowner = ['212777047730] //ur owner number
+global.ownername = "ayoub 2022 🐼🍷 ٫" //ur owner name
+
+global.socialm = "GitHub:ayoub" //ur github or insta name
+global.location = "maroc, Casablanca, " //ur location
 
 //bot bomdy 
-global.owner = ['9660540637980']
-global.ownertag = '9660540637980' //ur tag number
-global.botname = 'BOT ABDUL RAHMAN🐼🍷 ٫' //ur bot name
-global.linkz = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv' //script link
+global.owner = ['212670530309']
+global.ownertag = '212777047730 //ur tag number
+global.botname = 'best ayoub 2023🐼🍷 ٫' //ur bot name
+global.linkz = "https://chat.whatsapp.com/Etza2nqc2ct9YdEgcd1gpy" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/Etza2nqc2ct9YdEgcd1gpy" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/Etza2nqc2ct9YdEgcd1gpy' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣عبدالرحمن⍣" //ur sticker watermark packname
-global.author = "⍣9660540637980⍣" //ur sticker watermark author
+global.packname = "⍣ايوب⍣" //ur sticker watermark packname
+global.author = "⍣212777047730 ⍣" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
